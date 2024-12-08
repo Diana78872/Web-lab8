@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Murai",
+        "affiliation": "alliance",
+        "rank": "admiral",
+        "location": "Iserlohn Fortress"
+    },
+    {
+        "name": "Julian Mintz",
+        "affiliation": "alliance",
+        "rank": "lieutenant",
+        "location": "Iserlohn Fortress"
+    },
+    {
+        "name": "Yang Wen-li",
+        "affiliation": "alliance",
+        "rank": "admiral",
+        "location": "Hyperion"
+    },
+    {
+        "name": "Reinhard von Lohengramm",
+        "affiliation": "empire",
+        "rank": "admiral",
+        "location": "Barbarossa"
+    },
+    {
+        "name": "Wolfgang Mittermeyer",
+        "affiliation": "empire",
+        "rank": "admiral",
+        "location": "Phezzan"
+    }
+]
